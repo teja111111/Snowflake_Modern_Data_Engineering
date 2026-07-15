@@ -1,4 +1,4 @@
-# Snowflake_Modern_Data_Engineering
+# Snowflake_Data_Project
 Snowflake Modern Data Project 
 
 ## Project Overview
